@@ -1,0 +1,4 @@
+/home/cyy/workinsecret/ANPR/CMakeFiles/ANPR.dir
+/home/cyy/workinsecret/ANPR/CMakeFiles/evalOCR.dir
+/home/cyy/workinsecret/ANPR/CMakeFiles/trainOCR.dir
+/home/cyy/workinsecret/ANPR/CMakeFiles/trainSVM.dir
